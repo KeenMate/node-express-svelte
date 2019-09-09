@@ -1,4 +1,4 @@
-# Simple Node with Express Server with REST API and Svelte.dev as web framework
+# Node Express Server with REST API and Svelte.dev as web framework
 
 Based on [node-express-server-rest-api](https://github.com/rwieruch/node-express-server-rest-api) project that was combined with Svelte.dev project created by
 
